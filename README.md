@@ -1,3 +1,3 @@
-##backbone-bundle
+## backbone-bundle
 
-A new repo
+Basic set of files commonly required for backbone projects.
